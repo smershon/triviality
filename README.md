@@ -1,0 +1,2 @@
+# triviality
+Programmatically shallowed knowledge
